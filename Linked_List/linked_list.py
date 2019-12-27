@@ -330,24 +330,24 @@ class LinkedList:
         return result
 
 
-def fibonacci(self, number):
-    if number <= 1:
-        return number
-    else:
-        return self.fibonacci(number - 1) + self.fibonacci(number - 2)
+# def fibonacci(self, number):
+#     if number <= 1:
+#         return number
+#     else:
+#         return self.fibonacci(number - 1) + self.fibonacci(number - 2)
 
 
-def is_string_palindrome(str1):
-    string2 = str1[::-1]
-    return string2 == str1
+# def is_string_palindrome(str1):
+#     string2 = str1[::-1]
+#     return string2 == str1
 
 
-llist = LinkedList()
-llist.append("A")
-llist.append("B")
-llist.append("C")
-llist.append("D")
-llist.prepend("X")
+# llist = LinkedList()
+# llist.append("A")
+# llist.append("B")
+# llist.append("C")
+# llist.append("D")
+# llist.prepend("X")
 
 # print(str(llist.len_iterative()))
 # print(str(llist.len_recursive(llist.head)))
@@ -400,18 +400,18 @@ llist.prepend("X")
 # llist_3.remove_duplicates()
 # llist_3.print_list()
 
-llist_2 = LinkedList()
-llist_2.append(5)
-llist_2.append(6)
-llist_2.append(3)
+# llist_2 = LinkedList()
+# llist_2.append(5)
+# llist_2.append(6)
+# llist_2.append(3)
 # llist_2.print_list()
 
 
-llist_3 = LinkedList()
-llist_3.append(8)
-llist_3.append(4)
-llist_3.append(2)
-llist_3.append(5)
+# llist_3 = LinkedList()
+# llist_3.append(8)
+# llist_3.append(4)
+# llist_3.append(2)
+# llist_3.append(5)
 # llist_2.print_nth_from_last(20)
 # print(str(llist_2.count_occurance(9)))
 # print(str(llist_2.count_occurance_recursive(llist_2.head, 8)))
@@ -424,5 +424,5 @@ llist_3.append(5)
 # llist_2.move_tail_to_head()
 # llist_2.print_list()
 
-sumed = LinkedList.sum_two_lists(llist_2, llist_3)
-sumed.print_list()
+# sumed = LinkedList.sum_two_lists(llist_2, llist_3)
+# sumed.print_list()
