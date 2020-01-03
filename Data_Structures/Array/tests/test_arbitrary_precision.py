@@ -1,5 +1,5 @@
 import unittest
-from Array.arbitrary_precision import ArbitraryPrecision
+from Data_Structures.Array.arbitrary_precision import ArbitraryPrecision
 
 
 class TestArbitraryPrecision(unittest.TestCase):

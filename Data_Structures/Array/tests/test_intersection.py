@@ -1,5 +1,5 @@
 import unittest
-from Array.intersection import Intersection
+from Data_Structures.Array.intersection import Intersection
 
 
 class TestIntersection(unittest.TestCase):

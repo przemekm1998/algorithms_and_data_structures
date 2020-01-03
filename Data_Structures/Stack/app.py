@@ -1,4 +1,4 @@
-from Stack.stack import Stack
+from Data_Structures.Stack.stack import Stack
 
 
 def main():

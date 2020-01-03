@@ -1,5 +1,5 @@
 import unittest
-from Array.two_integers_sum import TwoIntegersSum, ThreeIntegersSum
+from Data_Structures.Array.two_integers_sum import TwoIntegersSum, ThreeIntegersSum
 
 
 class TestTwoIntegersSum(unittest.TestCase):

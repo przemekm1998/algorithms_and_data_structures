@@ -1,6 +1,3 @@
-from Linked_List.linked_list import LinkedList
-
-
 class Node:
     def __init__(self, data):
         self.data = data

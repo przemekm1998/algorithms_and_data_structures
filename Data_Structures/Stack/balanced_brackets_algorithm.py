@@ -1,4 +1,4 @@
-from Stack.stack import Stack
+from Data_Structures.Stack.stack import Stack
 
 
 def is_match(opening_bracket, closing_bracket):

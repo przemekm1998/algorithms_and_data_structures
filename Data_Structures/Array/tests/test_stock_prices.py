@@ -1,5 +1,5 @@
 import unittest
-from Array.stock_prices import StockPrices
+from Data_Structures.Array.stock_prices import StockPrices
 
 
 class TestStockPrices(unittest.TestCase):

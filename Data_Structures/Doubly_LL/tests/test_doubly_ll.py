@@ -1,5 +1,5 @@
 import unittest
-from Doubly_LL.doubly_ll import DoublyLinkedList
+from Data_Structures.Doubly_LL.doubly_ll import DoublyLinkedList
 
 
 class DoublyLinkedListTest(unittest.TestCase):

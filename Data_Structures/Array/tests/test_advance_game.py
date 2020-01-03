@@ -1,5 +1,5 @@
 import unittest
-from Array.advance_game import ArrayAdvance
+from Data_Structures.Array import ArrayAdvance
 
 
 class TestArrayAdvance(unittest.TestCase):
